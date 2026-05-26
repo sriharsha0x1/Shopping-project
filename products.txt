@@ -5,4 +5,4 @@ ProductID | ProductName | Category | Price
 204 | LED Desk Lamp | Office Supplies | 899 
 205 | iPad | Electronics | 69900 
 206 | Shoes  | Footwear | 500 
-207 | Stapler | Office Supplies | 89
+207 | Stapler | School Supplies | 89
